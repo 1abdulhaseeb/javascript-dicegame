@@ -1,0 +1,76 @@
+/* TAG SELECTORS */
+
+body {
+  text-align: center;
+  font-family: 'Lora', serif;
+}
+.container {
+  height: 100vh;
+}
+
+.main-text {
+  text-align: center;
+  font-family: 'Oleo Script Swash Caps', cursive;
+  font-size: 6rem;
+  padding: 3% 0;
+}
+
+.player-text {
+  font-size: 1.5rem;
+}
+
+.img-div {
+  text-align: center;
+  font-family: 'Lora', serif;
+}
+
+.image {
+  width: 35%;
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
+
+
+.button-text {
+  text-align: center;
+  text-decoration: none;
+  color: #fff;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.footer {
+  text-align: center;
+  font-family: 'Gochi Hand', cursive;
+  padding-top: 2%;
+}
+
+@media (max-width: 770px) {
+
+  .container {
+    height: 100vh;
+  }
+
+  .main-text {
+    font-size: 3rem;
+    padding: 10% 0 10% 0;
+  }
+
+  .player-text {
+    font-size: 1rem;
+  }
+
+  .footer {
+    text-align: center;
+    padding-top: 15%;
+  }
+
+  .button {
+    padding-top: 5%;
+  }
+
+}
