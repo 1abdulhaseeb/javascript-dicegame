@@ -1,5 +1,5 @@
 # Javascript Dice Game
-I have used html, css, bootstrap and javascript to create this website
+I have used html, css, bootstrap and javascript to create this website. It's also responsive i.e., made for both desktop & mobile devices.
 
 # Instruction
 1. Choose player 1 or player 2 in your mind.
